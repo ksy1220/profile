@@ -1,0 +1,25 @@
+.list-group-item {
+    width: 320px;
+}
+
+.border {
+    width: 320px;
+    padding: 20px;
+}
+
+body {
+    background: grey;
+}
+
+#wrapper{
+    width: 1200px;
+    background: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.subwrapper{
+    width: 400px;
+    padding: 20px;
+    margin: 20px;
+}
